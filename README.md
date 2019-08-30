@@ -33,8 +33,7 @@ To Validate that the GCC compiler is successfully installed use the gcc --veriso
 
 ### Tutorial For Install Drivers Nvidia RTX 2080 Ti, for Ubuntu 18.04 Final Solution
 
-[Install Drivers  RTX2080TI and Cuda 10.0](ttps://medium.com/better-programming/how-to-install-nvidia-drivers-and-cuda-10-0-for-rtx-2080-ti-gpu-on-ubuntu-16-04-18-04-ce32e4edf1c0)
-
+[Install Drivers  RTX2080TI and Cuda 10.0](https://medium.com/better-programming/how-to-install-nvidia-drivers-and-cuda-10-0-for-rtx-2080-ti-gpu-on-ubuntu-16-04-18-04-ce32e4edf1c0)
 
   
 
